@@ -1,8 +1,12 @@
 #web_bg {
   /* ����ͼ��ĵ�ַ��url�����  */
-  background: url(/img/background1.jpg);
+  background: url("test.jpg");
   /* ����ͼ���ظ� */
   background-repeat: no-repeat;
   /* ����ͼ���С */
   background-size: cover;
+  background-image: url("https://ae01.alicdn.com/kf/H5662031fbf344418aa2c8bf74c68826eV.png"),
+    linear-gradient(45deg, #6dd0f2 15%, #f59abe 85%);
+}
+
 }
